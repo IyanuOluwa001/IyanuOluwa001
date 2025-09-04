@@ -1,13 +1,13 @@
 # Hi there, I'm IyanuOluwa Emmanuel Adejare! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image][(My_Banner)](https://x.com/web3pips/header_photo)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **building solutions with solidity and Java** with experience in **the teaching profession as a B. Sc. (Ed.) Mathematics graduate and a finacial strategist**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🌱 Currently learning: **Solidity, Java and React**
+- 🔭 Working on: **A personal financial growth framework system**
 - 🌍 Languages: **HTML, CSS, JAVASCRIPT, SOLIDITY, JAVA**
 - 📫 How to reach me: **[iyanuoluwaadejare2025@gmail.com**
 - ⚡ Fun fact: **I can't help but see problems, so I am here building & shipping solutions in codes and apps - instead of complaining and waiting for someone else to do it.**
