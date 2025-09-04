@@ -1,6 +1,6 @@
 # Hi there, I'm IyanuOluwa Emmanuel Adejare! 👋
 
-![Banner Image][(My_Banner)](https://x.com/web3pips/header_photo)
+[(My_Banner)](https://x.com/web3pips/header_photo)
 
 ## About Me 🚀
 
