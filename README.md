@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **building solutions with solidity and Java** with experience in **the teaching profession as a B. Sc. (Ed.) Mathematics graduate and a finacial strategist**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate about **building solutions with solidity and Java** with experience in **the teaching profession as a B. Sc. (Ed.) Mathematics graduate and a finacial strategist**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Solidity, Java and React**
 - 🔭 Working on: **A personal financial growth framework system**
@@ -18,19 +18,24 @@ I'm a passionate **building solutions with solidity and Java** with experience i
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
+
+
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Decentralized Exchange](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+This **[Decentralized Exchange]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Website Portfolio](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
