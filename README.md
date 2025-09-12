@@ -9,7 +9,7 @@ I'm a passionate about **building solutions with solidity and Java** with experi
 - 🌱 Currently learning: **Solidity, Java and React**
 - 🔭 Working on: **A personal financial growth framework system**
 - 🌍 Languages: **HTML, CSS, JAVASCRIPT, SOLIDITY, JAVA**
-- 📫 How to reach me: **[iyanuoluwaadejare2025@gmail.com**
+- 📫 How to reach me: **iyanuoluwaadejare2025@gmail.com**
 - ⚡ Fun fact: **I can't help but see problems, so I am here building & shipping solutions in codes and apps - instead of complaining and waiting for someone else to do it.**
 
 ## My Skills 🧠
@@ -43,8 +43,8 @@ This **[Decentralized Exchange]** is a **[brief project description]** built wit
 
 ## Get in Touch 📬
 
-- **Website:**[https://iyanuoluwa-portfolio.vercel.app/]
-- **LinkedIn:**[https://www.linkedin.com/in/iyanuoluwa-emmanuel-adejare/]
-- **Twitter:**[https://www.x.com/web3pips]
+- **Website:** https://iyanuoluwa-portfolio.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/iyanuoluwa-emmanuel-adejare/
+- **Twitter:** https://www.x.com/web3pips
 
 
