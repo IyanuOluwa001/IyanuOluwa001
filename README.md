@@ -43,8 +43,8 @@ This **[Decentralized Exchange]** is a **[brief project description]** built wit
 
 ## Get in Touch 📬
 
-- **[Website]**[https://iyanuoluwa-portfolio.vercel.app/)]
-- **[LinkedIn]**[(https://www.linkedin.com/in/iyanuoluwa-emmanuel-adejare/)]
-- **[Twitter]**[(x.com/web3pips)]
+- **Website:**[https://iyanuoluwa-portfolio.vercel.app/]
+- **LinkedIn:**[https://www.linkedin.com/in/iyanuoluwa-emmanuel-adejare/]
+- **Twitter:**[https://www.x.com/web3pips]
 
 
