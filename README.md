@@ -1,8 +1,6 @@
 # Hi there, I'm IyanuOluwa Emmanuel Adejare! 👋
 
-![IyanuOluwa](https://x.com/web3pips/header_photo)
-
-[(My_Banner)](https://x.com/web3pips/header_photo)
+![IyanuOluwa](assets/IyanuWeb3banner.jpeg)
 
 ## About Me
 
@@ -32,17 +30,17 @@ I am passionate about **building solutions with solidity and Java** with experie
 
 ## Featured Projects 💻
 
-### [Decentralized Exchange](project_1_link)
+### [Decentralized Exchange](https://dex-challenge-beta.vercel.app/dex)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![DecentralizedExchange Project](assets/IyanuDexProject.png)
 
-This **[Decentralized Exchange]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+This **Decentralized Exchange project** is a **fullstack blockchain website for safe swapping of decentralized assets (for this sample project, we used 2 tokens, $BAL & $ETH)**. Built with **Next.js in the frontend and Solidity in the backedn**. You can check out the repository [here](https://github.com/IyanuOluwa001/Decentralized-Exchange-Hardhat-Solidity-Project).
 
-### [Website Portfolio](project_2_link)
+### [Website Portfolio](https://iyanuoluwa-portfolio.vercel.app/)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![PortfolioWebsite Project](assets/IyanuPortfolioWeb.png)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**This portfolio Website** is a **simple website dedicated to showcasing my skillset to potential employers and friends** built with **React using Vite** for quick light deployment. You can check out the repository [here](https://github.com/IyanuOluwa001/iyanuoluwa-portfolio).
 
 ## Get in Touch 📬
 
