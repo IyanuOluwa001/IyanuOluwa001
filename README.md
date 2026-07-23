@@ -1,5 +1,7 @@
 # Hi there, I'm IyanuOluwa Emmanuel Adejare! 👋
 
+![IyanuOluwa](https://x.com/web3pips/header_photo)
+
 [(My_Banner)](https://x.com/web3pips/header_photo)
 
 ## About Me
