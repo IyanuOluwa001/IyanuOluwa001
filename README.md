@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am passionate about **building solutions with solidity and Java** with experience in **the teaching profession as a B. Sc. (Ed.) Mathematics graduate and a finacial strategist**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am passionate about **building solutions with solidity and Java** with experience in **the teaching profession as a B. Sc. (Ed.) Mathematics graduate and a finacial strategist**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Web3 solution is the home I am building, software development is my building tool, and AI is my assitant. Welcome!
 
 - Currently learning: **Solidity, Java and React**
 - Working on: **A personal financial growth framework system**
